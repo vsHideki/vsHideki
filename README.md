@@ -1,12 +1,10 @@
-![Snake animation](https://github.com/vshideki/vshideki/blob/output/github-contribution-grid-snake.svg)
-
 **Olá, Devs!**
 
 ***Bem vindo ao meu perfil GitHub 👋***
 
 # Sobre Mim :
 
-- *Meu nome é Victor Hideki e, tenho 20 anos, trabalho no Grupo de Saúde de SJC (Gsau-SJ). Atualmente estou cursando a faculdade de Análise e Desenvolvimento de Sistemas (ADS), onde estou aprimorando minhas habilidades e conhecimentos para construir sistemas, para que possa focar no desenvolvimento Front-End, onde me sinto confortável, pois, sempre trabalhei com criação de arte gráfica.*
+- *Meu nome é Victor Hideki, tenho 20 anos, trabalho no Grupo de Saúde de SJC (Gsau-SJ). Atualmente estou cursando a faculdade de Análise e Desenvolvimento de Sistemas (ADS), onde estou aprimorando minhas habilidades e conhecimentos para construir sistemas, para que possa focar no desenvolvimento Front-End, onde me sinto confortável, pois, sempre trabalhei com criação de arte gráfica.*
 
 # O que eu faço 🎮
 
